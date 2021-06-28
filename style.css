@@ -1,0 +1,23 @@
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:25px;
+  color: blue;
+  font-size:120%;
+background-color: yellow;
+}
+
+#nav {
+    background-color: yellow;
+}
+
+iframe {
+  height: 500px;
+  width: 500px;
+}
